@@ -3,18 +3,18 @@
 /*                                                        :::      ::::::::   */
 /*   fractol.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yotsurud <yotsurud@student.42.fr>          +#+  +:+       +#+        */
+/*   By: yotsurud <yotsurud@student.42tokyo.>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/30 14:53:40 by yotsurud          #+#    #+#             */
-/*   Updated: 2024/07/04 15:14:28 by yotsurud         ###   ########.fr       */
+/*   Updated: 2024/06/11 18:02:30 by yotsurud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FRACTOL_H
 # define FRACTOL_H
 
-// # include "./minilibx_opengl/mlx.h"
-# include <mlx.h>
+# include "./minilibx_opengl/mlx.h"
+// # include <mlx.h>
 # include "libft/includes/libft.h"
 # include "libft/includes/ft_printf.h"
 # include <stdlib.h>
